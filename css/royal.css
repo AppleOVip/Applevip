@@ -142,7 +142,7 @@ header ul.active {
         display:none;
         position: absolute;
         width: 100%;
-        height:calc(36vh - 50px) ;
+        height:calc(38vh - 50px) ;
         background-color: #fff;
         top: 60px;
         left: 0;

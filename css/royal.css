@@ -556,7 +556,7 @@ html {
     font-size: 15px;
 }
 
-.pricing-button {
+.pricing-plan > button {
     border: 1px solid #9dd1ff;
     border-radius: 10px;
     color: #5F40E5;
